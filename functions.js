@@ -4,7 +4,7 @@ module.exports = {
   },
 
   greeting(name){
-    return `Hello ${name}.`;
+    return `Hello, ${name}.`;
   },
 
   add(num1, num2){
